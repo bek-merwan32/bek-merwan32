@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and artificial intelligence
 - 🌱 I’m currently learning web development
 - 📫 How to reach me {
-     facebook  :  ;
+     facebook  : https://web.facebook.com/mer.wan.37625/ ;
      instagrame : ;
      linkden :;
      }
